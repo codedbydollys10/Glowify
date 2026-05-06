@@ -1,9 +1,6 @@
 <p align="center">
-  <img src="assets/logo.png" width="150" />
+  <img src="./src/assets/logo.png" width="150" />
 </p>
-
-<h1 align="center">🌿 Glowify</h1>
-<p align="center">AI Powered Personalized Skincare Intelligence System</p>
 
 # 🌿 Glowify — AI Powered Personalized Skincare Intelligence System
 
