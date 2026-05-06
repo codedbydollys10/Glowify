@@ -1,7 +1,5 @@
 <div align="center">
-
-<img src="./src/assets/logo.png" width="160" />
-
+  <img src="https://raw.githubusercontent.com/codedbydollys10/Glowify/main/src/assets/logo.png" width="160" />
 </div>
 
 # 🌿 Glowify — AI Powered Personalized Skincare Intelligence System
