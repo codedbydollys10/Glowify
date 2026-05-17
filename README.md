@@ -256,7 +256,7 @@ VITE_API_BASE_URL=http://localhost:5000
 ```
 
 
-💡 Innovation Highlights
+## 💡 Innovation Highlights
 
    AI-powered skincare personalization engine
   Dual input system (chatbot + face scan)
@@ -265,7 +265,7 @@ VITE_API_BASE_URL=http://localhost:5000
   Lifestyle-based skin prediction model
   Non-product, non-medical safe recommendation system
 
-🧠 Challenges Faced
+##🧠 Challenges Faced
 
    Designing safe skincare logic without medical claims
    Merging multi-source user data (chatbot + scan + health)
@@ -273,7 +273,7 @@ VITE_API_BASE_URL=http://localhost:5000
    Building consistent AI response structure
    Managing personalization complexity
 
-📚 What I Learned
+## 📚 What I Learned
 
 Technical Skills
     Full-stack development (React + Node.js)
@@ -286,7 +286,7 @@ System Design
     Personalized recommendation systems
     Data-driven decision systems
 
-Problem Solving
+#Problem Solving
    Real-world skincare logic modeling
    Safety-first AI recommendation design
 
@@ -294,7 +294,7 @@ Problem Solving
 Glowify provides educational skincare guidance only.  
 It does not recommend medicines or promote cosmetic products.
 
-🏁 Conclusion
+## 🏁 Conclusion
 Glowify is an AI-powered personalized skincare intelligence system that analyzes skin, lifestyle, and ingredients to generate safe, science-based skincare routines and insights.
 
 
