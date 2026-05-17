@@ -265,7 +265,7 @@ VITE_API_BASE_URL=http://localhost:5000
   Lifestyle-based skin prediction model
   Non-product, non-medical safe recommendation system
 
-##🧠 Challenges Faced
+## 🧠 Challenges Faced
 
    Designing safe skincare logic without medical claims
    Merging multi-source user data (chatbot + scan + health)
@@ -286,7 +286,7 @@ System Design
     Personalized recommendation systems
     Data-driven decision systems
 
-#Problem Solving
+Problem Solving
    Real-world skincare logic modeling
    Safety-first AI recommendation design
 
