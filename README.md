@@ -227,7 +227,7 @@ Main Tables:
 ## 📦 Setup & Installation
 
 ### Clone Repository
-```bash
+```
 git clone https://github.com/codedbydollys10/Glowify.git
 cd glowify
 Install Dependencies
@@ -253,7 +253,7 @@ GROK_API_KEY=your_key
 Frontend .env
 VITE_API_BASE_URL=http://localhost:5000
 
-```bash
+```
 
 
 💡 Innovation Highlights
