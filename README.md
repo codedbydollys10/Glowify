@@ -294,6 +294,8 @@ Problem Solving
    Real-world skincare logic modeling
    Safety-first AI recommendation design
 
+ ---
+
 ## ⚠️ Disclaimer
 Glowify provides educational skincare guidance only.  
 It does not recommend medicines or promote cosmetic products.
