@@ -265,6 +265,8 @@ VITE_API_BASE_URL=http://localhost:5000
   Lifestyle-based skin prediction model
   Non-product, non-medical safe recommendation system
 
+---
+
 ## 🧠 Challenges Faced
 
    Designing safe skincare logic without medical claims
@@ -272,6 +274,8 @@ VITE_API_BASE_URL=http://localhost:5000
    Ensuring ingredient compatibility accuracy
    Building consistent AI response structure
    Managing personalization complexity
+
+---
 
 ## 📚 What I Learned
 
@@ -294,9 +298,12 @@ Problem Solving
 Glowify provides educational skincare guidance only.  
 It does not recommend medicines or promote cosmetic products.
 
+---
+
 ## 🏁 Conclusion
 Glowify is an AI-powered personalized skincare intelligence system that analyzes skin, lifestyle, and ingredients to generate safe, science-based skincare routines and insights.
 
+--- 
 
 ## ⭐ If you like this project
 Give it a ⭐ on GitHub and share feedback!
