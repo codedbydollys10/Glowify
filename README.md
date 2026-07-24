@@ -308,4 +308,7 @@ Glowify is an AI-powered personalized skincare intelligence system that analyzes
 --- 
 
 ## ⭐ If you like this project
+
+---
+
 Give it a ⭐ on GitHub and share feedback!
